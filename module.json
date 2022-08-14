@@ -1,0 +1,27 @@
+{
+  "name": "frost-oracle",
+  "title": "frost-oracle",
+  "description": "frost-oracle",
+  "author": "Robin Skye",
+  "version": "1.0",
+  "minimumCoreVersion": "0.9",
+  "compatibleCoreVersion": "0.9",
+  "packs": [
+	  {
+	  "label": "Frost",
+      "type": "Item",
+      "name": "frost-db",
+      "path": "./packs/frost-db.db",
+      "system": "pf2e",
+      "package": "frost-oracle",
+      "private": false
+	  }
+  ],
+  "system": [
+    "pf2e"
+  ],
+  "minimumSystemVersion": "3.12.2.10",
+  "url": "https://github.com/HalflingMenace/PoppetsPlaythings",
+  "manifest": "https://raw.githubusercontent.com/HalflingMenace/PoppetsPlaythings/master/module.json",
+  "download": "https://github.com/HalflingMenace/PoppetsPlaythings/archive/refs/heads/main.zip"
+}
