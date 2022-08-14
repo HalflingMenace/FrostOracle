@@ -21,7 +21,7 @@
     "pf2e"
   ],
   "minimumSystemVersion": "3.12.2.10",
-  "url": "https://github.com/HalflingMenace/PoppetsPlaythings",
-  "manifest": "https://raw.githubusercontent.com/HalflingMenace/PoppetsPlaythings/master/module.json",
-  "download": "https://github.com/HalflingMenace/PoppetsPlaythings/archive/refs/heads/main.zip"
+  "url": "https://github.com/HalflingMenace/FrostOracle",
+  "manifest": "https://github.com/HalflingMenace/FrostOracle/blob/main/module.json",
+  "download": "https://github.com/HalflingMenace/FrostOracle/archive/refs/heads/main.zip"
 }
